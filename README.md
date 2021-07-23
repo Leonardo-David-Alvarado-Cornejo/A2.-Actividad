@@ -139,6 +139,35 @@ Ya descargado e instalado el Programa Dev-C++ podremos abrir nuestra carpeta don
 
 * Paso 4- Podemos eliminar todo los archivos excepto el ejecutable "Principal.exe" y si quieren pueden desinstalar el Dev-C++ , ahora ya se puede disfrutar del programa a continuación una pruebas.
 
+## Pruebas 📦
+
+* Menú Principal 
+
+![image](https://user-images.githubusercontent.com/87637743/126827687-ec519105-f307-4a37-8d42-beccff5fcb7f.png)
+
+* Digitamos 1 nos pedirá llenar los datos : (Cedula , Nombre , Fecha de Nacimiento , Peso , Estatura).
+
+![image](https://user-images.githubusercontent.com/87637743/126827842-255dda06-c5b8-4768-9272-8628a3c10ea9.png)
+
+* Mostrara los datos ingresados
+ 
+![image](https://user-images.githubusercontent.com/87637743/126827913-80e1252d-9d51-400a-9769-827cb5573792.png)
+
+* Digitamos 2 nos dará nuestra edad a partir de nuestra fecha de nacimiento y ingresando la fecha actual. Mostrará la edad
+
+![image](https://user-images.githubusercontent.com/87637743/126829334-d780edd4-057d-4cbf-9d3d-cfde44f9be2d.png)
+
+* Digitamos 3 nos dará el índice corporal y un mensaje sobre nuestra salud
+
+![image](https://user-images.githubusercontent.com/87637743/126829563-cd1ae970-aeca-41f4-a65f-6ca56e814a32.png)
+
+* Digite 4 para guardar los datos ingresados y obtenido
+
+![image](https://user-images.githubusercontent.com/87637743/126829686-a5581e5e-a8ea-470e-943f-38f2e3fe2de8.png)
+
+* Digite 5 para recuperar los datos que fueron guardado y mostrarlo por pantalla
+
+![image](https://user-images.githubusercontent.com/87637743/126829873-74000767-adff-47c4-8e30-2e114df76fac.png)
 
 ## Versionado 📌
 
