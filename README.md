@@ -16,7 +16,7 @@
 
 ## Licencia 📄
 
-[LICENSE.md](LICENSE) para detalles
+[LICENSE.md](https://github.com/Leonardo-David-Alvarado-Cornejo/C2.2-Actividad/blob/main/LICENSE) para detalles
 
 ## Expresiones de Gratitud 🎁
 
