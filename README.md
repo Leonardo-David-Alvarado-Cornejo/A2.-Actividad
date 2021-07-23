@@ -114,12 +114,9 @@ Pasos para la Instalacion del Programa :
 
 
 
-
-## Paso 4- ☛ Ya descargado e instalado el Programa Dev-C++ podremos abrir nuestra carpeta que descargaron del repositorio del programa 
-
-
-
 ## Ejecución ⚙️
+
+* Paso 1- ☛ Ya descargado e instalado el Programa Dev-C++ podremos abrir nuestra carpeta que descargaron del repositorio del programa 
 
 
 ## Versionado 📌
