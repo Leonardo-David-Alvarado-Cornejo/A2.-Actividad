@@ -4,19 +4,19 @@
 
 ## Composición 🚀
 
-**Esta compuesto por 5 Archivos cada archivo tiene una Fusión y una Clase que permite el Funcionamiento Correcto del Programa**
+**Esta compuesto por 5 Archivos cada archivo tiene una Fusión y una Clase que permite el Funcionamiento Correcto del Programa:**
 
-**Archivo 1 : Principal es el Cerebro del Programa que permite la ejecución y ordenes que se vaya a realizar ; Encontramos el Menú principal encargada de llamar a las funciones de los colaboradores**
+**- Archivo 1 : Principal es el Cerebro del Programa que permite la ejecución y ordenes que se vaya a realizar ; Encontramos el Menú principal encargada de llamar a las funciones de los colaboradores.**
 
-**Archivo 2: Colaborador 1 es el encargado de asignar Atributos y los Métodos que se van a realizar en la Class Persona; Encontramos la clase de ingreso de los datos y clase de mostrarlo por pantalla **
+**- Archivo 2: Colaborador 1 es el encargado de asignar Atributos y los Métodos que se van a realizar en la Class Persona; Encontramos la clase de ingreso de los datos y clase de mostrarlo por pantalla.**
 
-**Archivo 3: Colaborador 2 es el encargado de realizar el proceso de calcular la edad de una persona a partir de su Fecha de nacimiento y pidiendo al usuario ingresar la fecha actual; Encontramos la clase de edad que es la encargada de realizar todo el proceso para obtener la edad de la persona**
+**- Archivo 3: Colaborador 2 es el encargado de realizar el proceso de calcular la edad de una persona a partir de su Fecha de nacimiento y pidiendo al usuario ingresar la fecha actual; Encontramos la clase de edad que es la encargada de realizar todo el proceso para obtener la edad de la persona.**
 
-**Archivo 4: Colaborador 3 es el encargado que a partir de los datos ingresado por el usuario su peso y su estatura le dará su índice de masa corporal más una descripción de su salud; Encontramos la clase corporal que realiza el proceso mostrar el índice corporal y felicitarlo si se encuentra bien, o darle alguna recomendación si su índice es el correcto**
+**- Archivo 4: Colaborador 3 es el encargado que a partir de los datos ingresado por el usuario su peso y su estatura le dará su índice de masa corporal más una descripción de su salud; Encontramos la clase corporal que realiza el proceso mostrar el índice corporal y felicitarlo si se encuentra bien, o darle alguna recomendación si su índice es el correcto.**
 
-**Archivo 5: Colaborador 4 es el encargado de guardar todos los datos ingresados por el usuario y almacenar en un archivo de txt; Encontramos la clase escribir encargada de guarda en un documento de texto**
+**- Archivo 5: Colaborador 4 es el encargado de guardar todos los datos ingresados por el usuario y almacenar en un archivo de txt; Encontramos la clase escribir encargada de guarda en un documento de texto.**
 
-**Archivo 6: Colaborador 5 es el encargado de recuperar o mejor buscar el archivo donde se guardaron los datos; Encontramos la clase lectura que realizara la búsqueda de los datos ingresado y luego mostrarlo en la pantalla**
+**- Archivo 6: Colaborador 5 es el encargado de recuperar o mejor buscar el archivo donde se guardaron los datos; Encontramos la clase lectura que realizara la búsqueda de los datos ingresado y luego mostrarlo en la pantalla.**
 
 ## Descipción  📋
 
