@@ -7,7 +7,7 @@
 **Esta compuesto por 5 Archivos cada archivo tiene una Fusión y una Clase que permite el Funcionamiento Correcto del Programa:**
 
 
-**- Archivo 1 : Principal es el Cerebro del Programa Encontramos el Menú principal encargada de llamar a las funciones de los colaboradores para tener una mayor optimizacion del programa.
+**- Archivo 1 : Principal es el Cerebro del Programa Encontramos el Menú principal encargada de llamar a las funciones de los colaboradores para tener una mayor optimizacion del programa.**
 
 
 **- Archivo 2 : Colaborador 1 es el encargado de asignar Atributos y los Métodos que se van a realizar en la Class Persona; Encontramos la clase de ingreso de los datos y clase de mostrarlo por pantalla.**
