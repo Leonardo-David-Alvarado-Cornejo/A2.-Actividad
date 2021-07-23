@@ -1,16 +1,16 @@
 ## Tabla de contenidos:
 ---
 
-- [Autores](#Autores)
-- [Composición](#Composición)
-- [Descipción](#Descipción)
-- [Instalación](#Instalación)
-- [Ejecución](#Ejecución)
-- [Versionado](#Versionado)
-- [Licencia](#Licencia)
-- [Información adicional](#información-adicional)
-- [Licencia](#licencia)
-- [Expresiones de Gratitud](#Expresiones de Gratitud)
+- [Autores](##Autores)
+- [Composición](##Composición)
+- [Descipción](##Descipción)
+- [Instalación](##Instalación)
+- [Ejecución](##Ejecución)
+- [Versionado](##Versionado)
+- [Licencia](##Licencia)
+- [Información adicional](##información-adicional)
+- [Licencia](##licencia)
+- [Expresiones de Gratitud](##Expresiones de Gratitud)
 
 ## Autores ✒️
 
