@@ -4,35 +4,35 @@
 
 ## Composición 🚀
 
-**Esta compuesto por 5 Archivos cada archivo tiene una Fusión y una Clase :**
+**Está compuesto por 5 Archivos cada archivo tiene una Fusión y una Clase:**
 
 
-* Archivo 1 : Principal es el Cerebro del Programa Encontramos el ("  **int main**  ") encargada de llamar a las funciones de los colaboradores para tener una mayor optimizacion del programa.
+* Archivo 1: Principal es el Cerebro del Programa Encontramos el ("  **int main**  ") encargada de llamar a las funciones de los colaboradores para tener una mayor optimización del programa.
 
 
-* Archivo 2 : Encontramos el encargado de asignar los Atributos y los Métodos que se van a realizar en la Class Persona y va a hacer la funcion de ingreso de los datos y mostrarlo por pantalla.
+* Archivo 2: Encontramos el encargado de asignar los Atributos y los Métodos que se van a realizar en la Class Persona y va a hacer la función de ingreso de los datos y mostrarlo por pantalla.
 
 
-* Archivo 3 : Encontramos la clase de edad que es la encargada de realizar todo el proceso para obtener la edad de la persona y ser llamada por la funcion principal.
+* Archivo 3: Encontramos la clase de edad que es la encargada de realizar todo el proceso para obtener la edad de la persona y ser llamada por la función principal.
 
 
-* Archivo 4 : Encontramos la clase corporal que realiza el proceso mostrar el índice corporal y ser llamadada por la funcion principal.
+* Archivo 4: Encontramos la clase corporal que realiza el proceso mostrar el índice corporal y ser llamada por la función principal.
 
 
-* Archivo 5 : Encontramos la clase escribir encargada de guarda en un documento de texto y ser llamadada por la funcion principal.
+* Archivo 5: Encontramos la clase escribir encargada de guarda en un documento de texto y ser llamada por la función principal.
 
 
-* Archivo 6 : Encontramos la clase lectura realiza la recuperarcion de los  datos ingresado y ser llamadada por la funcion principal.
+* Archivo 6: Encontramos la clase lectura realiza la recuperación de los datos ingresado y ser llamada por la función principal.
 
-## Descipción  📋
+## Descripción 📋
 
 **Funcionamiento Correcto del Programa:**
 
 
-* Principal : es el Cerebro del Programa que permite la ejecución y ordenes que se vaya a realizar.
+* Principal: es el Cerebro del Programa que permite la ejecución y ordenes que se vaya a realizar.
 
 
-* Colaborador 1 es el encargado de asignar Atributos y los Métodos que se van a realizar en la Class Persona y llenar los datos digitado por el usuario y mostralo.
+* Colaborador 1 es el encargado de asignar Atributos y los Métodos que se van a realizar en la Class Persona y llenar los datos digitado por el usuario y mostrarlo.
 
 
 * Colaborador 2 es el encargado de realizar el proceso de calcular la edad de una persona a partir de su Fecha de nacimiento y pidiendo al usuario ingresar la fecha actual.
@@ -49,14 +49,14 @@
 
 ## Instalación 🔧
 
-Pasos para la Instalacion del Programa :
+Pasos para la Instalación del Programa:
 
 * Paso 1- ☛ [Descargar el archivo del Programa](https://github.com/Leonardo-David-Alvarado-Cornejo/C2.2-Actividad.git) 📁
 * Paso 2- ☛ Ubicar nuestro programa donde queramos instalarlo
 * Paso 3- ☛ Necesitaremos el Programa Dev-C++ para ejecutar el programa en Windows: ☛ [Dev-C++](http://www.mediafire.com/file/cjkh2ynu0a1ia3s/Dev-Cpp_5.5.3_TDM-GCC_x64_4.7.1_Setup.exe/file)
-* Paso 4- ☛ Ya descargado el Programa Dev-C++ seguremos los sigiente paso para su instalacion :
+* Paso 4- ☛ Ya descargado el Programa Dev-C++ seguiremos el siguiente paso para su instalación:
 
-# Paso de Instalacion Dev C++
+# Paso de Instalación Dev C++
 
 * Paso 1 ✍️
 
@@ -118,7 +118,7 @@ Pasos para la Instalacion del Programa :
 
 ## Ejecución ⚙️
 
-* Paso 1- ☛ Ya descargado e instalado el Programa Dev-C++ podremos abrir nuestra carpeta que descargaron del repositorio del programa donde la hayan ubicado en mi caso esta en el escritorio.
+* Paso 1- ☛ Ya descargado e instalado el Programa Dev-C++ podremos abrir nuestra carpeta que descargaron del repositorio del programa donde la hayan ubicado en mi caso está en el escritorio.
 
 
 ## Versionado 📌
