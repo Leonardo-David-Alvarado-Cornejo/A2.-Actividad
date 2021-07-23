@@ -7,7 +7,7 @@
 **Esta compuesto por 5 Archivos cada archivo tiene una Fusión y una Clase :**
 
 
-* Archivo 1 : Principal es el Cerebro del Programa Encontramos el ("-**int main**-") encargada de llamar a las funciones de los colaboradores para tener una mayor optimizacion del programa.
+* Archivo 1 : Principal es el Cerebro del Programa Encontramos el ("  **int main**  ") encargada de llamar a las funciones de los colaboradores para tener una mayor optimizacion del programa.
 
 
 * Archivo 2 : Encontramos el encargado de asignar los Atributos y los Métodos que se van a realizar en la Class Persona y va a hacer la funcion de ingreso de los datos y mostrarlo por pantalla.
