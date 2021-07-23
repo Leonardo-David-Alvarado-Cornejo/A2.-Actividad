@@ -59,6 +59,8 @@ Pasos para la Instalación del Programa:
 
 * Paso 3- ☛ Necesitaremos el Programa Dev-C++ para ejecutar el programa en Windows: ☛ [Dev-C++](http://www.mediafire.com/file/cjkh2ynu0a1ia3s/Dev-Cpp_5.5.3_TDM-GCC_x64_4.7.1_Setup.exe/file)
 
+![image](https://user-images.githubusercontent.com/87637743/126819816-677b2215-c84c-4e65-a4ae-a6c020f0b9d6.png)
+
 * Paso 4- ☛ Ya descargado el Programa Dev-C++ seguiremos el siguiente paso para su instalación:
 
 # Paso de Instalación Dev C++
