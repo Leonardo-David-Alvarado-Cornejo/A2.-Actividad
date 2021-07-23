@@ -51,9 +51,14 @@
 
 Pasos para la Instalación del Programa:
 
-* Paso 1- ☛ [Descargar el archivo del Programa](https://github.com/Leonardo-David-Alvarado-Cornejo/C2.2-Actividad.git) 📁
+* Paso 1- ☛ [Descargar el archivo del Programa](https://github.com/Leonardo-David-Alvarado-Cornejo/C2.2-Actividad.git) 📁 
+
+![image](https://user-images.githubusercontent.com/87637743/126819528-dba58a1a-b39c-464c-ab33-a9f00876525f.png)
+
 * Paso 2- ☛ Ubicar nuestro programa donde queramos instalarlo
+
 * Paso 3- ☛ Necesitaremos el Programa Dev-C++ para ejecutar el programa en Windows: ☛ [Dev-C++](http://www.mediafire.com/file/cjkh2ynu0a1ia3s/Dev-Cpp_5.5.3_TDM-GCC_x64_4.7.1_Setup.exe/file)
+
 * Paso 4- ☛ Ya descargado el Programa Dev-C++ seguiremos el siguiente paso para su instalación:
 
 # Paso de Instalación Dev C++
@@ -118,7 +123,9 @@ Pasos para la Instalación del Programa:
 
 ## Ejecución ⚙️
 
-* Paso 1- ☛ Ya descargado e instalado el Programa Dev-C++ podremos abrir nuestra carpeta que descargaron del repositorio del programa donde la hayan ubicado en mi caso está en el escritorio.
+# Ya descargado e instalado el Programa Dev-C++ podremos abrir nuestra carpeta que descargaron del repositorio del programa donde la hallan ubicado en mi caso está en el escritorio para mostrale.
+
+
 
 
 ## Versionado 📌
