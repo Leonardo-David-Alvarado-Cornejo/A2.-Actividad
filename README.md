@@ -53,7 +53,7 @@ Pasos para la Instalacion del Programa :
 
 * Paso 1- ☛ [Descargar el archivo del Programa](https://github.com/Leonardo-David-Alvarado-Cornejo/C2.2-Actividad.git)
 * Paso 2- ☛ Ubicar nuestro programa donde queramos instalarlo
-* Paso 3- ☛ Necesitaremos un Programa externo para ejecutar el programa en nuestro Sistema Operativo Windows 
+* Paso 3- ☛ Necesitaremos un Programa externo para ejecutar el programa en nuestro Sistema Operativo Windows 👇👇👇
 
  ☛ [Dev-C++](http://www.mediafire.com/file/cjkh2ynu0a1ia3s/Dev-Cpp_5.5.3_TDM-GCC_x64_4.7.1_Setup.exe/file)
   
