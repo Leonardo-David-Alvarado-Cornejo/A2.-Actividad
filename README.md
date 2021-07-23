@@ -123,19 +123,21 @@ Pasos para la Instalación del Programa:
 
 ## Ejecución ⚙️
 
-* Ya descargado e instalado el Programa Dev-C++ podremos abrir nuestra carpeta que descargaron del repositorio del programa donde la hallan ubicado en mi caso está en el escritorio para mostrale.
+Ya descargado e instalado el Programa Dev-C++ podremos abrir nuestra carpeta donde hallan guardado el archivo del programa, en mi caso está en el escritorio para mostrarle:
 
-Paso 1- Extraer los archivos y les quedara una carpeta del programa
+* Paso 1- Vamos a extraer los archivos y les quedara una carpeta del programa 
+![image](https://user-images.githubusercontent.com/87637743/126825240-3ed78b45-d5a4-4498-9157-0c590ea770c0.png)
 
-![image](https://user-images.githubusercontent.com/87637743/126820790-2568ea29-ddf8-432c-adbe-a1b7153d06e5.png)
+* Paso 2- Abrimos la Carpeta y entramos en la subcarpeta donde dice Class Persona y damos un clip en el archivo Principal, y si ya tenemos el programa nos preguntara si abrir con Dev-C++ 
+![image](https://user-images.githubusercontent.com/87637743/126825421-13f98f36-9f9a-475d-a2ef-a1cd2bbbd55c.png)
 
-Paso 2- Abrimos la Carpeta y entramos en la subcarpeta Class Persona y seleccionamos todos los archivos dentro y arastramos asta el Programa Dev-C++
+* Paso 3- Observen la imagen diríjase donde está la mano señalada hay dan un clip y comenzara a compilar nuestro programa esto puede tomar unos minutos se abrirá y se creara un ejecutable ("  **.exe**  ") en la carpeta que tenemos nuestro archivo guardado y ya podemos cerrar el Dev-C++
 
-![image](https://user-images.githubusercontent.com/87637743/126821422-c51da4da-7173-4e8a-ae52-cc1f03fda7fa.png)
+![img](https://user-images.githubusercontent.com/87637743/126826093-232e5ac0-402f-4ca6-8f1c-672839ee5177.jpg)
 
-Paso 3- Encontraremos los archivos en desorden , pero eso no importa solo nos vamos a centrar en la parte Principal que permitira ejecutar el Programa en este momento se encontra copilando todo los archivos solo toca esperar que se abra.
+![image](https://user-images.githubusercontent.com/87637743/126826349-70420a3a-9039-4730-8e55-79d3623602d3.png)
 
-![Dev-C++](https://user-images.githubusercontent.com/87637743/126822713-676813c4-e11b-4252-8aeb-8db68b575bc1.jpg)
+* Paso 4- Podemos eliminar todo los archivos excepto el ejecutable "Principal.exe" y si quieren pueden desinstalar el Dev-C++ , ahora ya se puede disfrutar del programa a continuación una pruebas.
 
 
 ## Versionado 📌
