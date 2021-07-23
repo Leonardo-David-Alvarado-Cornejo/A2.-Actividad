@@ -1,7 +1,6 @@
 ## Autores ✒️
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [Leonardo David Alvarado Cornejo](https://github.com/Leonardo-David-Alvarado-Cornejo)
-* **Fulanito Detal** - *Documentación* - [Leonardo David Alvarado Cornejo](https://github.com/Leonardo-David-Alvarado-Cornejo)
+* **Leonardo David Alvarado Cornejo** - *Trabajo Inicial* - *Documentación* - [Leonardo David Alvarado Cornejo](https://github.com/Leonardo-David-Alvarado-Cornejo)
 
 ## Composición 🚀
 
