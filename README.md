@@ -1,17 +1,3 @@
-## Tabla de contenidos:
----
-
-- [Autores](##Autores)
-- [Composición](##Composición)
-- [Descipción](##Descipción)
-- [Instalación](##Instalación)
-- [Ejecución](##Ejecución)
-- [Versionado](##Versionado)
-- [Licencia](##Licencia)
-- [Información adicional](##información-adicional)
-- [Licencia](##licencia)
-- [Expresiones de Gratitud](##Expresiones de Gratitud)
-
 ## Autores ✒️
 
 **Leonardo David Alvarado Cornejo** - *Trabajo Inicial* - *Documentación* - [Leonardo David Alvarado Cornejo](https://github.com/Leonardo-David-Alvarado-Cornejo)
