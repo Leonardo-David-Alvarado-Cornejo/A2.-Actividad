@@ -102,4 +102,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Leonardo-David-Alvarado-Cornejo) 😊
+⌨️ con ❤️ por [Leonardo David Alvarado Cornejo](https://github.com/Leonardo-David-Alvarado-Cornejo) 😊
