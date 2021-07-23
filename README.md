@@ -57,6 +57,9 @@ Pasos para la Instalación del Programa:
 
 * Paso 2- ☛ Ubicar nuestro programa donde queramos instalarlo
 
+![image](https://user-images.githubusercontent.com/87637743/126820610-1aa97512-3437-4371-8cc1-aed549aa8ea3.png)
+
+
 * Paso 3- ☛ Necesitaremos el Programa Dev-C++ para ejecutar el programa en Windows: ☛ [Dev-C++](http://www.mediafire.com/file/cjkh2ynu0a1ia3s/Dev-Cpp_5.5.3_TDM-GCC_x64_4.7.1_Setup.exe/file)
 
 ![image](https://user-images.githubusercontent.com/87637743/126819816-677b2215-c84c-4e65-a4ae-a6c020f0b9d6.png)
@@ -117,18 +120,22 @@ Pasos para la Instalación del Programa:
 
 ![image](https://user-images.githubusercontent.com/87637743/126746752-82d6fc37-132e-4001-a195-ee4de9b1caaf.png)
 
-* Paso 14 ✍️
-
-![image](https://user-images.githubusercontent.com/87637743/126746770-b203ccc5-648a-4470-9eb0-2857eafdc1f9.png)
-
-
 
 ## Ejecución ⚙️
 
 * Ya descargado e instalado el Programa Dev-C++ podremos abrir nuestra carpeta que descargaron del repositorio del programa donde la hallan ubicado en mi caso está en el escritorio para mostrale.
 
+Paso 1- Extraer los archivos y les quedara una carpeta del programa
 
+![image](https://user-images.githubusercontent.com/87637743/126820790-2568ea29-ddf8-432c-adbe-a1b7153d06e5.png)
 
+Paso 2- Abrimos la Carpeta y entramos en la subcarpeta Class Persona y seleccionamos todos los archivos dentro y arastramos asta el Programa Dev-C++
+
+![image](https://user-images.githubusercontent.com/87637743/126821422-c51da4da-7173-4e8a-ae52-cc1f03fda7fa.png)
+
+Paso 3- Encontraremos los archivos en desorden , pero eso no importa solo nos vamos a centrar en la parte Principal que permitira ejecutar el Programa en este momento se encontra copilando todo los archivos solo toca esperar que se abra.
+
+![image](https://pixlr.com/32365df3-4f75-4567-9f40-f3b014d4dce8)
 
 ## Versionado 📌
 
