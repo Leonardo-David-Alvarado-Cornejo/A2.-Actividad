@@ -127,7 +127,7 @@ Pasos para la Instalacion del Programa :
 
 ## Licencia 📄
 
-[LICENSE.md](https://github.com/Leonardo-David-Alvarado-Cornejo/C2.2-Actividad/blob/main/LICENSE) para detalles
+[LICENSE.md](https://github.com/Leonardo-David-Alvarado-Cornejo/C2.2-Actividad/blob/main/LICENSE) 💬 para detalles
 
 ## Expresiones de Gratitud 🎁
 
