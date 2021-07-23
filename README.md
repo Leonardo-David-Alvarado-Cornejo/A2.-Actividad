@@ -4,7 +4,7 @@
 
 ## Composición 🚀
 
-**Esta compuesto por 5 Archivos cada archivo tiene una Fusión y una Clase que permite el Funcionamiento Correcto del Programa:**
+**Esta compuesto por 5 Archivos cada archivo tiene una Fusión y una Clase :**
 
 
 **- Archivo 1 : Principal es el Cerebro del Programa Encontramos el Menú principal encargada de llamar a las funciones de los colaboradores para tener una mayor optimizacion del programa.**
