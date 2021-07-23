@@ -12,7 +12,7 @@
 
 ## Versionado 📌
 
-[v3.0](https://github.com/Leonardo-David-Alvarado-Cornejo/C2.2-Actividad/tags).
+[v3.0](https://github.com/Leonardo-David-Alvarado-Cornejo/C2.2-Actividad/tags)
 
 ## Licencia 📄
 
