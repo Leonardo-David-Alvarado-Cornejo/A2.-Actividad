@@ -51,66 +51,66 @@
 
 Pasos para la Instalacion del Programa :
 
-* Paso 1- ☛ [Descargar el archivo del Programa](https://github.com/Leonardo-David-Alvarado-Cornejo/C2.2-Actividad.git)
+* Paso 1- ☛ [Descargar el archivo del Programa](https://github.com/Leonardo-David-Alvarado-Cornejo/C2.2-Actividad.git) 📁
 * Paso 2- ☛ Ubicar nuestro programa donde queramos instalarlo
 * Paso 3- ☛ Necesitaremos el Programa Dev-C++ para ejecutar el programa en nuestro Sistema Operativo Windows :
           ☛ [Dev-C++](http://www.mediafire.com/file/cjkh2ynu0a1ia3s/Dev-Cpp_5.5.3_TDM-GCC_x64_4.7.1_Setup.exe/file)
   
 # Paso de Instalacion Dev C++
 
-* Paso 1
+* Paso 1 ✍️
 
 ![image](https://user-images.githubusercontent.com/87637743/126746127-091127b1-7619-473e-a5d0-731703996e56.png)
 
-* Paso 2
+* Paso 2 ✍️
  
 ![image](https://user-images.githubusercontent.com/87637743/126746458-2a49c70c-79e3-40d2-b9f5-b9d67b87d772.png)
 
-* Paso 3
+* Paso 3 ✍️
 
 ![image](https://user-images.githubusercontent.com/87637743/126746499-ba9c721a-1293-484a-863a-9b2f2ca41511.png)
 
-* Paso 4
+* Paso 4 ✍️
 
 ![image](https://user-images.githubusercontent.com/87637743/126746545-25b16120-a468-4866-9fa2-7a135b4601c0.png)
 
-* Paso 5
+* Paso 5 ✍️
 
 ![image](https://user-images.githubusercontent.com/87637743/126746562-5c4441b4-415a-49d4-98a6-439abfabcab5.png)
 
-* Paso 6
+* Paso 6 ✍️
 
 ![image](https://user-images.githubusercontent.com/87637743/126746583-024df9e7-16f5-42a8-b6f4-3eaefc0a80d0.png)
 
-* Paso 7
+* Paso 7 ✍️
 
 ![image](https://user-images.githubusercontent.com/87637743/126746601-52a8496f-6c79-4bd0-bf2a-27d528976c4c.png)
 
-* Paso 8
+* Paso 8 ✍️
 
 ![image](https://user-images.githubusercontent.com/87637743/126746642-afbf382a-0d3b-4cfa-9014-cf309db98118.png)
 
-* Paso 9
+* Paso 9 ✍️
 
 ![image](https://user-images.githubusercontent.com/87637743/126746679-66258d37-c420-4c7f-bc96-cfa5492c1d1b.png)
 
-* Paso 10
+* Paso 10 ✍️
 
 ![image](https://user-images.githubusercontent.com/87637743/126746700-48c1fb48-0fa5-4848-a2ba-3f02c0be1111.png)
 
-* Paso 11
+* Paso 11 ✍️
 
 ![image](https://user-images.githubusercontent.com/87637743/126746711-8dc63ede-59fb-4123-9271-99e972af6526.png)
 
-* Paso 12
+* Paso 12 ✍️
 
 ![image](https://user-images.githubusercontent.com/87637743/126746721-8f940567-9bb2-4516-99c9-69c593b90351.png)
 
-* Paso 13
+* Paso 13 ✍️
 
 ![image](https://user-images.githubusercontent.com/87637743/126746752-82d6fc37-132e-4001-a195-ee4de9b1caaf.png)
 
-* Paso 14
+* Paso 14 ✍️
 
 ![image](https://user-images.githubusercontent.com/87637743/126746770-b203ccc5-648a-4470-9eb0-2857eafdc1f9.png)
 
@@ -118,7 +118,7 @@ Pasos para la Instalacion del Programa :
 
 ## Ejecución ⚙️
 
-* Paso 1- ☛ Ya descargado e instalado el Programa Dev-C++ podremos abrir nuestra carpeta que descargaron del repositorio del programa 
+* Paso 1- ☛ Ya descargado e instalado el Programa Dev-C++ podremos abrir nuestra carpeta que descargaron del repositorio del programa donde la hayan ubicado en mi caso esta en el escritorio.
 
 
 ## Versionado 📌
